@@ -1,0 +1,12 @@
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    background-image: url(../https://o.remove.bg/downloads/ddd092e3-5d2f-4349-8680-443d03ef1fb1/download__1_-removebg-preview.png);
+    display: inline-block;
+}
+
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between ;
+}
